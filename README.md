@@ -4,7 +4,7 @@ Asynchronous nonblocking program Using Google API and Weather API
 
 # The-Weather-App
 
-A sample app to get the weaher report using Google API to manipulate the ZIP code and use it for getting weather report using weather API.
+A sample app to get the weather report using Google API to manipulate the ZIP code and use it for getting weather report using weather API.
 
 ## Getting Started
 
